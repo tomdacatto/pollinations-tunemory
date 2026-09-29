@@ -77,3 +77,6 @@ input.blank.bad { border-color: var(--bad); color: var(--bad); text-decoration: 
 .score b { font-size: 1.3rem; }
 
 .error { background: #3b1826; border: 1px solid var(--bad); color: #ffd9e0; padding: 10px 14px; border-radius: 12px; margin-bottom: 12px; }
+
+.powered { max-width: 860px; margin: 0 auto; padding: 0 16px 28px; color: var(--muted); font-size: .8rem; text-align: center; }
+.powered a { color: inherit; }
